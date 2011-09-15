@@ -19,7 +19,7 @@ Installation
 Changelog
 ---------
 
-...
+... updated
 
 Todo
 ----
